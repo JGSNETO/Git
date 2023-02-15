@@ -18,3 +18,11 @@ git checkout -b new-branch
 git checkout new-branch
 ```
 
+#### Merge
+
+- Merge a forked branch back together. 
+- Must be on the receiver branch
+  
+```
+$git merge <branch>
+```
